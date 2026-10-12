@@ -35,7 +35,7 @@ La versione ufficiale **MotoLink V1.7** introduce una navigazione BLE più reatt
 - **Diagnostica dei ritardi BLE:** registrazione dei tempi di coda e di completamento della trasmissione GATT.
 - Interfaccia automatica in Italiano, English, Русский e 中文, con fallback inglese.
 - Navigazione Google Maps in russo, comprese le distanze м/км e il riconoscimento delle manovre.
-- Navigazione VOGE turn-by-turn e gestione delle rotonde: funzionamento riferito dal tester russo su Valico 625 DSX.
+- Navigazione VOGE turn-by-turn e gestione delle rotonde: funzionamento riferito dal tester su Valico 625 DSX.
 - Mirroring EasyConn/H264, MediaProjection, Modalità tasca e protocollo VOGE mantenuti.
 
 ---
